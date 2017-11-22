@@ -6,7 +6,7 @@ body {
 .header,
 #menu {
   color: white;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png/resources/images/the-flatiron-building.png");
+  background-image: url("/Users/genevieveharbec/Desktop/CodeAcademy/Unit3_Projects/Broadway/resources/images/the-flatiron-building.png");
 }
 
 h1 {
