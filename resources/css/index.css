@@ -1,0 +1,47 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.header,
+#menu {
+  color: white;
+  background-image: url("/Users/genevieveharbec/Desktop/CodeAcademy/Unit3_Projects/Broadway/resources/images/the-flatiron-building.png");
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#menu {
+  font-size: 18px;
+}
+
+.footer {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
+
+#copyright {
+  font-size: 11px;
+}
+
+#info {
+  color: white;
+}
